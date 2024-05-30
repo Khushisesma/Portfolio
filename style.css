@@ -1,0 +1,130 @@
+#image2{
+    border-radius: 50%;
+}
+/* #F8F4E1-basecolor */
+/* AF8F6F */
+/* 74512D */
+/* 543310 */
+/* www.linkedin.com/in/khushi-choudhary25 */
+.card{
+    padding: 20px;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    border-bottom-width: 5px;
+    border-color:#F8F4E1;
+    background-color:#b58656;
+}
+body{
+    margin: 30px;
+    background-color: #F8F4E1;
+    border: 10px solid #543310 ;
+}
+.container-fluid{
+    background-color: #74512D;
+    margin: 0%;
+}
+.portfolio{
+    font-weight: bold;
+    color: #F8F4E1;
+}
+.about, .skills, .contact{
+    color: #F8F4E1;
+}
+.intro{
+    color: #F8F4E1;
+}
+.tech, .soft{
+    color:#F8F4E1 ;
+}
+.java,.c,.html,.css,.bootstrap,.communication,.decisionmaking,.leadership,.patience,.teamwork{
+    color: #F8F4E1;
+}
+.tech,.soft{
+    background-color:#543310 ;
+}
+.skill{
+    background-color:#74512D;
+}
+.techskill,.softskill{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-group{
+    height: 100%;
+}
+.d-flex {
+    align-items: stretch; 
+}
+.b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: #F8F4E1;
+}
+.list-group-item:hover *:not(svg) {
+    color:#543310; /* Change to your preferred color */
+}
+.btn-primary {
+    background-color: #543310;
+    border-color: #543310;
+}
+
+.btn-primary:hover {
+    background-color: #74512D;
+    border-color: #74512D;
+}
+#footer{
+    background-color: #74512D;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+}
+.intro{
+    background-color:#AF8F6F ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.navbar {
+    height: 80px; /* Change to your preferred height */
+    background-color: #74512D;
+}
+.heading{
+    font-weight: bold;
+}
+.para{
+    color: #F8F4E1;
+}
+.flexend{
+    display: flex;
+    justify-content: flex-end;
+}
+.drop{
+    margin: 0px;
+    background-color:#F8F4E1;
+}
+.dropdown-item{
+    color: #543310;
+}
+.getintouch{
+    color: #543310;
+}
+.intro{
+    width: 100%;
+    margin-right: 0px;
+    padding-right:auto ;
+}
+.introbox{
+    display: flex;
+    justify-content: center;
+  
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 0;
+}
+.navbaricon{
+    background-color: #F8F4E1;
+    border-color: #543310;
+}
